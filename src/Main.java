@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        //DannyCode.process();
+        //DannyString.process();
 
-        DannyVariable.main(new String[0]);
+        DannyVariable.main(new String[0]); // call DannyVariable.main()
 
     }
 }
