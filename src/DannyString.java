@@ -1,4 +1,4 @@
-public class DannyCode {
+public class DannyString {
 
     public static void process() {
 
